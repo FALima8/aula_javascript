@@ -1,11 +1,31 @@
-/*var d = new Date();
-alert(d.getMonth()+1);
-alert(d.getHours());
-alert(d.getMinutes());*/
+/*function FuncaoChange(elemento){
+    console.log(elemento.value);
+}
 
-/*for(var count=0; count <= 5; count++){
-    alert(count);
+function load(){
+    alert("pagina carregada.");
+}
+
+function trocar(){
+    //alert("trocar texto");
+    document.getElementById("mousemove").innerHTML = "Obrigado por passar o mouse.";
+}
+
+function voltar(){
+    document.getElementById("mousemove").innerHTML = "Passe o mouse aqui.";
+}
+function redirecionar(){
+    window.open("https://globoesporte.globo.com/")
+}
+function clicou(){
+    document.getElementById("agradecimento").innerHTML = "Obrigado por clicar.";
+    //console.log(document.getElementById("agradecimento"));
 }*/
+
+/* function soma(n1,n2){
+    return n1 + n2;
+}
+alert(soma(5,3)); */
 
 /*var count = 0;
 while(count < 5){
